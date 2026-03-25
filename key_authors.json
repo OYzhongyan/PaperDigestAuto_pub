@@ -1,0 +1,6 @@
+{
+  "_comment": "List of key authors whose papers automatically bypass LLM filtering and get highlighted in DingTalk. Names are matched case-insensitively, ignoring accents, spaces, and hyphens. Include name variants (middle initials, full middle names) for reliable matching. 以下为自动跳过 LLM 过滤并能在钉钉上突出显示其论文的关键作者名单。名称匹配不区分大小写，忽略重音符号、空格和连字符，还包括名称变体以确保准确匹配。",
+  "authors": [
+    "Jianlin Su"
+  ]
+}
